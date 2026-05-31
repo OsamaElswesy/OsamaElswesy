@@ -2,15 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Osama%20Adel%20Fawzy&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
+<img src="https://github.com/user-attachments/assets/6f083627-d1f1-4e1f-a0c7-ca5ec30f7682" width="260" style="border-radius: 20px; margin: 16px 0;"/>
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=OsamaElswesy&label=Profile%20Views&color=58a6ff&style=flat)](https://github.com/OsamaElswesy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/OsamaElswesy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-elswesy-a30a20254)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:osamaadel.com97@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" width="280" src="https://github.com/user-attachments/assets/6f083627-d1f1-4e1f-a0c7-ca5ec30f7682"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=OsamaElswesy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="420"/>
 
 ## 👋 About Me
 
