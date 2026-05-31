@@ -31,7 +31,7 @@ const osama = {
 - 🚀 Working on **[BOLD-ROUTS](https://github.com/OsamaElswesy/BOLD-ROUTS)** — bold routing solutions in HTML/CSS
 - 🧠 Exploring **AI APIs, LLMs & full-stack TypeScript** ecosystems
 - 💡 Passionate about **clean code, great UX, and shipping fast**
-- 📫 Reach me at: **[mailto:osamaadel.com97@gmail.com](mailto:osamaadel.com97@gmail.com)**
+- 📫 Reach me at: **[osamaadel.com97@gmail.com](mailto:osamaadel.com97@gmail.com)**
 
 <br clear="right"/>
 
