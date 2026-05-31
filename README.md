@@ -117,6 +117,14 @@ const osama = {
 
 ---
 
+## 🌟 My Vision
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/00ef2617-985a-467d-bfe0-57bfb6febf88" width="100%"/>
+</div>
+
+---
+
 ## 💬 Quote I Live By
 
 <div align="center">
