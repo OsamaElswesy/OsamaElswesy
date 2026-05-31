@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER - create this image at https://capsule-render.vercel.app -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Osama%20Adel%20Fawzy&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=OsamaElswesy&label=Profile%20Views&color=58a6ff&style=flat)](https://github.com/OsamaElswesy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/OsamaElswesy)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:osamaadel.com97@gmail.com)
@@ -12,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=OsamaElswesy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="420"/>
+<img align="right" width="280" src="https://github.com/user-attachments/assets/6f083627-d1f1-4e1f-a0c7-ca5ec30f7682"/>
 
 ## 👋 About Me
 
@@ -67,6 +65,9 @@ const osama = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
