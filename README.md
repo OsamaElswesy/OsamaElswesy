@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Osama%20Adel%20Fawzy&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/00ef2617-985a-467d-bfe0-57bfb6febf88" width="260" style="border-radius: 20px; margin: 16px 0;"/>
+<img src="https://github.com/user-attachments/assets/00ef2617-985a-467d-bfe0-57bfb6febf88" width="100%"/>
 
 <br/>
 
